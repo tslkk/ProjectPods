@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target "QRCode" do 
+pod 'TSLCategory', '~> 1.0.0'
+end
